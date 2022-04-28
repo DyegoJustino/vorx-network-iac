@@ -16,7 +16,7 @@ module "vpc" {
     Terraform = "true"
     Environment = "Production"
     CC = "10502"
-    OwnerSquad = "Teste"
+    OwnerSquad = "Infra"
     OwnerSRE = "SRE"
   }
 }
